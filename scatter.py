@@ -11,6 +11,6 @@ plt.scatter(x,y, label='skitscat', color='k', marker='*', s=100)
 plt.xlabel('x')
 plt.ylabel('y')
 
-plt.title('Histogram')
+plt.title('Scatter')
 plt.legend()
 plt.show()
