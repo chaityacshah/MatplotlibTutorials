@@ -1,2 +1,2 @@
 # MatplotlibTutorials
-Matplotlib Tutorials
+Contains Tutorials taught by 'sentdex' in Matplotlib Tutorial Series.
