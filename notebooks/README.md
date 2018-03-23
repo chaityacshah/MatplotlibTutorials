@@ -5,8 +5,10 @@ make changes to this file:
 `vi  ~/.plotly/.credentials`
 
 Another way:
-`import plotly
-plotly.tools.set_credentials_file(username='DemoAccount', api_key='lr1c37zw81')`
+```
+import plotly
+plotly.tools.set_credentials_file(username='DemoAccount', api_key='lr1c37zw81')
+```
 
 Plotly Offline allows you to create graphs offline and save them locally. There are also two methods for plotting offline: plotly.offline.plot() and plotly.offline.iplot().
 
